@@ -1,1 +1,3 @@
 chat of status feature
+new bug fixed
+
